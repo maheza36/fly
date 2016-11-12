@@ -1,0 +1,2 @@
+class FlightPane < ApplicationRecord
+end
